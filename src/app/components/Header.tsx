@@ -60,7 +60,7 @@ const Header = () => {
       )}
       <Link href='/'>
         <h3 className='text-sm text-orange-600'>
-          my<span className='text-white'>Bookmarks</span>
+          Movie<span className='text-white'> Bookmark</span>
         </h3>
       </Link>
       <div className='flex gap-3'>
